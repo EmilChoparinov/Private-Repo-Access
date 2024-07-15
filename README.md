@@ -1,5 +1,5 @@
 # Private-Repo-Access
-Unfortuantely, due to the growing use of AI by bad actors in our industry, I have decided with a heavy heart to privatize all my repositories on GitHub. I am a firm believer in open source and that open source can lead to beautiful collaboration among individuals in our communities and I am disappointed that the current climate necessitates this decision. Upon request, I am more than happy to share my source code for the 100+ repositories on this account. The following are my notable, and really just my favorite, projects that I have been forced to private. 
+Unfortuantely, due to the growing use of AI by bad actors in our industry, I have decided with a heavy heart to privatize all my old repositories on GitHub. I am a firm believer in open source and that open source can lead to beautiful collaboration among individuals in our communities and I am disappointed that the current climate necessitates this decision. Upon request, I am more than happy to share my source code for the 100+ repositories on this account. The following are my notable, and really just my favorite, projects that I have been forced to private. 
 
 My contact details are on my profile!
 
